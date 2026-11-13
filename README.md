@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Mann Kamal Jain 👋
 
-<!--
-**mannkjain-cs/mannkjain-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year **B.Tech Computer Science (Data Science)** student, building a strong programming foundation and working towards a career in data science and software engineering.
 
-Here are some ideas to get you started:
+🔭 **Currently:** learning C, from the basics through pointers, structures and file handling
+🐍 **Python:** completed a Udemy Python course; taking Python in college from 2nd year
+🌱 **Next up:** Python for data analysis (NumPy, pandas) and data structures & algorithms
+🎯 **Looking for:** internships and beginner-friendly projects in software development and data science
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech I work with
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📂 Projects
+
+| Project | What it is |
+|---|---|
+| [c-programming-practice](https://github.com/mannkjain-cs/c-programming-practice) | 20 C programs across 9 topics, from basics to pointers, structures and file handling: sorting, binary search, recursion, dynamic memory and a file-based notes app |
+
+---
+
+## 📈 Goals for this year
+
+- [x] Set up GitHub and start documenting my learning
+- [x] Cover all 9 core topics in the C practice repo
+- [ ] Data structures in C: linked lists, stacks, queues
+- [x] Complete a Python course (Udemy)
+- [ ] Build my first Python data-analysis project
+- [ ] Solve 100 DSA problems
+- [ ] Contribute to an open-source project
