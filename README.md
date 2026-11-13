@@ -4,7 +4,7 @@ First-year **B.Tech Computer Science (Data Science)** student, building a strong
 
 🔭 **Currently:** learning C, from the basics through pointers, structures and file handling
 
-🌱 **Next up:** data structures & algorithms
+🌱 **Next up:** object-oriented programming in Java (Semester II) and data structures & algorithms
 
 🎯 **Looking for:** internships and beginner-friendly projects in software development and data science
 
@@ -26,11 +26,26 @@ First-year **B.Tech Computer Science (Data Science)** student, building a strong
 
 ---
 
-## 📈 Goals for this year
+## 🗺️ Learning roadmap
+
+Following my B.Tech CSE (Data Science) curriculum at NMIMS MPSTME:
+
+| When | Focus |
+|---|---|
+| ✅ Semester I (2026) | C programming: control structures, arrays, strings, functions, pointers, structures, file handling |
+| ⏳ Semester II (2027) | Object-oriented programming in Java, plus DSA practice alongside |
+| Semester III | Python, data structures & algorithms, web development, probability & statistics |
+| Semester IV | Databases (SQL), design & analysis of algorithms, data wrangling & visualization |
+| Semester V–VI | AI & machine learning, deep learning, big data analytics |
+| Final year | Computer vision, generative & agentic AI, capstone project |
+
+---
+
+## 📈 Goals for 2027
 
 - [x] Set up GitHub and start documenting my learning
 - [x] Cover all 9 core topics in the C practice repo
-- [ ] Data structures in C: linked lists, stacks, queues
-- [ ] Build my first data-analysis project
+- [ ] Start a Java practice repo for OOP (Semester II)
 - [ ] Solve 100 DSA problems
 - [ ] Contribute to an open-source project
+- [ ] Summer 2027 internship, research project or open-source program
