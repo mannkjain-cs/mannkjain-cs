@@ -3,7 +3,9 @@
 First-year **B.Tech Computer Science (Data Science)** student, building a strong programming foundation and working towards a career in data science and software engineering.
 
 🔭 **Currently:** learning C, from the basics through pointers, structures and file handling
+
 🌱 **Next up:** data structures & algorithms
+
 🎯 **Looking for:** internships and beginner-friendly projects in software development and data science
 
 ---
