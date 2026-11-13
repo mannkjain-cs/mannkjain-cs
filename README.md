@@ -21,7 +21,7 @@ First-year **B.Tech Computer Science (Data Science)** student, building a strong
 
 | Project | What it is |
 |---|---|
-| [c-programming-practice](https://github.com/mannkjain-cs/c-programming-practice) | 20 C programs across 9 topics, from basics to pointers, structures and file handling: sorting, binary search, recursion, dynamic memory and a file-based notes app |
+| [c-programming-practice](https://github.com/mannkjain-cs/c-programming-practice) | 34 C programs following my CTPS course units: patterns, digit problems, sorting & searching, matrices, string functions without string.h, recursion, pointers, structures, and text & binary files |
 
 ---
 
